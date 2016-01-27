@@ -1,0 +1,60 @@
+body {
+background-color: #222;
+color: rgb(161, 161, 161)
+}
+#wrapper{
+	background-color: #332171;
+	border: 2px solid #F0D073;
+	margin-bottom: 15px;
+	width: 100%;
+	box-shadow: 5px 5px 5px #212121;
+	margin: 0 auto;
+
+}
+
+input, textarea{
+background: rgba(0, 0, 0, 0.5);
+display: block;
+margin: 10px 0;
+color: rgb(161, 161, 161);
+vertical-align: baseline;
+border: none;
+padding: 5px;
+box-shadow: 0 0 5px 0 #FFF;
+
+}
+
+
+h1{
+	text-align: center;
+	width: 100%;
+
+}
+
+#textside, #formside{
+	width: 45%;
+	display: inline-block;
+	padding: 20px;
+
+
+}
+
+#formside{
+	border-left: 1px solid #c6c6c6;
+	margin: 25px;
+}
+form{
+
+	padding: 10px;
+}
+
+#resultmessage{
+background-color: #332171;
+	border: 2px solid #F0D073;
+	margin-bottom: 15px;
+	width: 50%;
+	box-shadow: 5px 5px 5px #212121;
+	margin: 0 auto;
+	padding: 30px;
+
+}
